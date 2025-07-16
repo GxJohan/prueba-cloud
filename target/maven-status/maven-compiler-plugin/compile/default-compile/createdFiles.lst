@@ -1,0 +1,5 @@
+com/example/demo/model/Alumno.class
+com/example/demo/DemoApplication.class
+com/example/demo/service/AlumnoService.class
+com/example/demo/repository/AlumnoRepository.class
+com/example/demo/controller/AlumnoController.class
